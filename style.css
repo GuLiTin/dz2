@@ -1,0 +1,57 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+html,body{
+    margin:0px;
+    padding:0px;
+}
+.block{
+    width:500px;
+    height:250px;
+    background-color: rgb(230, 73, 133);
+    position: absolute;
+}
+.s1{
+    display: flex;
+    margin:10px;
+}
+.s2{
+    display: flex;
+    margin:10px;
+}
+.s3{
+    display: flex;
+    margin:10px;
+}
+.s4{
+    display: flex;
+    margin:10px;
+}
+.s5{
+    display: flex;
+    margin:10px;
+}
+.s6{
+    display: flex;
+    margin:10px;
+}
+.r1{
+    background-color: rgb(201, 45, 105);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+.r2{
+    background-color: rgb(138, 19, 65);
+    height: 30px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+}
+.r3{
+    background-color: rgb(201, 45, 105);
+    width: 300px;
+}
